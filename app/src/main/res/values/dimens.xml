@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_xsmall">4dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="space_normal">16dp</dimen>
+    <dimen name="space_large">32dp</dimen>
+    <dimen name="space_xlarge">64dp</dimen>
+    <dimen name="max_height_headline">250dp</dimen>
+    <dimen name="max_width_headline">350dp</dimen>
+    <dimen name="radius_xsmall">4dp</dimen>
+    <dimen name="radius_small">8dp</dimen>
+    <dimen name="radius_normal">16dp</dimen>
+    <dimen name="radius_large">32dp</dimen>
+    <dimen name="radius_xlarge">64dp</dimen>
+    <dimen name="height_appbar_layout">200dp</dimen>
+</resources>
